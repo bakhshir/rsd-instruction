@@ -215,7 +215,7 @@ Since the projects in Zotero are not searchable, find your project below:
 | 27016P01    | Fast open source simulator of low-energy scattering          | Johan
 | 27016G08    | Visual Storytelling of Big Imaging Data                      | Maarten
 | 27016G07    | Accelerating Astronomical Applications 2 (Triple-A 2)        | Atze
-| 27016G06    | A methodology and ecosystem for many-core programming        | Alessio0
+| 27016G06    | A methodology and ecosystem for many-core programming        | Alessio
 | 27016G05    | DIRAC: Distributed Radio Astronomical Computing              | Hanno
 | 27016G04    | DeepRank: Scoring 3D protein                                 | Sonja
 | 27016G03    | Googling the cancer genome                                   | Arnold
@@ -226,7 +226,7 @@ Since the projects in Zotero are not searchable, find your project below:
 | 27015G08    | iDark: The intelligent Dark Matter Survey                    | Faruk
 | 27015G07    | Automated Parallel Calculation of Collaborative Stat Models  | Patrick
 | 27015G06    | Enhancing protein-drug binding prediction                    | Lourens
-| 27015G05    | DynaSlum:Data Driven Modeling and Decision Support for Slums | Elena
+| 27015G05    | DynaSlum:Data Driven Modeling and Decision Support for Slums | Berend
 | 27015G04    | What Works When for Whom?                                    | Janneke
 | 27015G03    | Towards Large-Scale Cloud-Resolving Climate Simulations      | Gijs
 | 27015G02    | Algorithmic Geo-visualization: from Theory to Practice       | Carlos
@@ -292,7 +292,7 @@ For the gems (as far as they are not covered by a project):
 | SPOT | Faruk 
 | Xenon | Jason
 | McFly | Christiaan
-| ReGIS | Carlos
+| ReGIS | Rena
 | PyCWL | Lourens 
 
 
